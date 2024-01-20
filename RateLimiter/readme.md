@@ -1,9 +1,9 @@
 # RateLimiter
 [https://medium.com/geekculture/system-design-design-a-rate-limiter-81d200c9d392](https://medium.com/geekculture/system-design-design-a-rate-limiter-81d200c9d392)
 
-```
+`
 A Rate Limiter limits the number of client requests allowed to be sent over a specified period. If the API request count exceeds the threshold defined by the rate limiter, all the excess calls are blocked.
-```
+`
 
 ## Benefits
 
@@ -25,4 +25,3 @@ Cloud Microservices have been quite popular and rate limiting is implemented wit
 # Types of Rate Limiters
 
 1) [Token Based Rate Limiter](./TokenBased/readme.md)
-2) 
