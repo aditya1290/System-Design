@@ -24,4 +24,8 @@ Cloud Microservices have been quite popular and rate limiting is implemented wit
 
 # Types of Rate Limiters
 
-1) [Token Based Rate Limiter](./TokenBased/readme.md)
+1) [Token Bucket Rate Limiter](./TokenBased/readme.md)
+2) [Leaking Bucket]
+3) [Fixed Window Counter]
+4) [Sliding Window Log]
+5) [Sliding Window Counter]

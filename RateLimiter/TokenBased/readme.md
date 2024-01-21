@@ -1,5 +1,7 @@
 # Token Based Rate Limiter
 
+Used by Amazon and Stripe
+
 
 
 # References
